@@ -13,3 +13,5 @@ Run this project using npm.
 3) When in the terminal, use npm install to install node dependencies - "npm install."
 4) Once the dependencies are installed, you can go back into the terminal and use nodemon app.js to have your API running on port 3000. - "nodemon app.js"
 5) You can now go to your browser and enter "http://localhost:3000/" to view the application
+
+**NOTE***This project has also been uploaded to Heroku, and you can simply use the link - https://sleepy-citadel-72681-f9cd64567628.herokuapp.com/ - to view the application on your Web Browser.
