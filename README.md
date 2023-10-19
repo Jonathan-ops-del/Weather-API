@@ -1,7 +1,7 @@
 # Weather-API
 Using Node.js & Https to incorporate the third party Weather APP API into our own Web Application.
 
-In this Web Application, we use a third party API from - https://api.openweathermap.org - to incorporate the live temperates of cities into our Web Application. Our Web Application is a simple form entry , where 
+In this Web Application, we use a third party API from - https://api.openweathermap.org - to incorporate the live temperature of cities into our Web Application. Our Web Application is a simple form entry , where 
 the user enters in a city of their choice to get details on the current temperature. Once the user enters in the city of choice and hits the submit button, the page will fetch data from the third party site and display it 
 on our Web Application for our user to see. 
 
